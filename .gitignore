@@ -1,6 +1,6 @@
-/dist
-
 /node_modules
+
+/dist
 
 #개발툴: idea, visual studio code, sublime
 .idea

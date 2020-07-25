@@ -7,6 +7,7 @@ import {area, circumference} from './js/circle';
 // default import: {} 없고 이름을 마음대로 만들수 있다.
 import volume from './js/cube';
 
+
 const component = () => {
   console.log('test');
   let element = document.createElement('div');
